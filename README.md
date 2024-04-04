@@ -6,4 +6,4 @@ The classes are fully customizable, so it can be deployed as it is or can be ref
 
 
 # SneekPeek
-[](https://github.com/DebaChakIBM/CustomBarChart/blob/main/CustomBarChart/Gifs/Video_GIFs.gif)
+[Sneek Peek of the component](https://github.com/DebaChakIBM/CustomBarChart/blob/main/CustomBarChart/Gifs/Video_GIFs.gif)
